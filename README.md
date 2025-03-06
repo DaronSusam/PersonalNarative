@@ -18,8 +18,7 @@ Use your knowledge of object-oriented programming, two-dimensional (2D) arrays, 
 ## UML Diagram
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README.
-
-![UML Diagram for my project](image-1.png)
+![UML Diagram for my project](<Unit 6 UML diagram.png>)
 
 ## Video
 
@@ -34,8 +33,8 @@ Record a short video of your story to display here on your README. You can do th
 [![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
 
 ## Story Description
+My Story for the animation showcases my journey in my first two years in high school soccer. The story shows the levels of soccer I started and then how I moved myself up to a better place. I started off from watching the game on the bench of JV my freshman year to starting for Varsity the next year. After every sentence I put a picture after that correspond with the text. For example I put "Scoring on Var" and then put a picture of someone shooting the ball as if they are scoring. The data I used was my personal information from me and I put them into 2D arrays. This data is the backbone of my code and without it my project would be completly different.
 
-Write a description of the story that your animation showcases. Give addional context for your story here in the case your animation is more abstract and only has images and little text. Lastly, include what data in your project is represented in 2D arrays and how those directly relate to the story your animation showcase.
 ## Image Filter Analysis
 
 Choose at least 2 filters uses in your animation to explain how the pixels are modified. If you created a new image filter that was not one of the ones from this unit, make sure to explain and analyze that filter(s) before choosing ones that came from this unit.

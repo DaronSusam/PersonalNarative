@@ -22,19 +22,12 @@ Put and image of your UML Diagram here. Upload the image of your UML Diagram to 
 
 ## Video
 
-Record a short video of your story to display here on your README. You can do this by:
 
-- Screen record your project running on Code.org.
-- Upload that recording to YouTube.
-- Take a thumbnail for your image.
-- Upload the thumbnail image to your repo.
-- Use the following markdown
 
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+[![Thumbnail for my projet](thumbnail.png)](https://www.youtube.com/shorts/NVvjYGwHhmA)
 
 ## Story Description
 My Story for the animation showcases my journey in my first two years in high school soccer. The story shows the levels of soccer I started and then how I moved myself up to a better place. I started off from watching the game on the bench of JV my freshman year to starting for Varsity the next year. After every sentence I put a picture after that correspond with the text. For example I put "Scoring on Var" and then put a picture of someone shooting the ball as if they are scoring. The data I used was my personal information from me and I put them into 2D arrays. This data is the backbone of my code and without it my project would be completly different.
 
 ## Image Filter Analysis
-
-Choose at least 2 filters uses in your animation to explain how the pixels are modified. If you created a new image filter that was not one of the ones from this unit, make sure to explain and analyze that filter(s) before choosing ones that came from this unit.
+The filter I used in this project was my pixelate method. In this method the image I chose would pixelate in the theater. The method traverses each row of pixels by the gridSize amount (instead of by 1), then traverse each column of pixels by the gridSize amount (instead of by 1). Get the average red, green, and blue values of the pixels in that region, and set each red, green, and blue values in that region to the averages.
